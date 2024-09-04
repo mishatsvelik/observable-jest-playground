@@ -17,5 +17,6 @@
   },
   "scripts": {
     "test": "npx jest"
-  }
+  },
+  "version": "0.0.1"
 }
