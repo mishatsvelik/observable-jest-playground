@@ -12,7 +12,7 @@
   "dependencies": {
     "@observablehq/runtime": "^5.9.9",
     "@types/jest": "^29.5.12",
-    "5ef68b6d8020c0c7": "https://api.observablehq.com/d/5ef68b6d8020c0c7@95.tgz?v=3",
+    "5ef68b6d8020c0c7": "https://api.observablehq.com/d/5ef68b6d8020c0c7@106.tgz?v=3",
     "jest-fetch-mock": "^3.0.3"
   },
   "scripts": {
