@@ -1,0 +1,6 @@
+node_modules/*
+!node_modules/5ef68b6d8020c0c7
+!node_modules/@observablehq
+/src
+/build
+/.awcache

@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "@babel/preset-typescript": "^7.24.7",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@observablehq/runtime": "^5.9.9",
+    "@types/jest": "^29.5.12",
+    "5ef68b6d8020c0c7": "https://api.observablehq.com/d/5ef68b6d8020c0c7@95.tgz?v=3",
+    "jest-fetch-mock": "^3.0.3"
+  },
+  "scripts": {
+    "test": "npx jest"
+  }
+}
