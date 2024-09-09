@@ -3,7 +3,7 @@ module.exports = {
   testEnvironment: "jsdom",
   testEnvironmentOptions: {
     resources: "usable",
-    url: 'https://observablehq.com/d/5ef68b6d8020c0c7', //if deleted the base url will just revert to localhost
+    url: 'https://observablehq.com/d/5ef68b6d8020c0c7', //if deleted the base url will just revert to http://localhost
   },
   transform: {
     "\\.[jt]sx?$": "babel-jest"
