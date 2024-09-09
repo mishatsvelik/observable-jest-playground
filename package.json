@@ -10,10 +10,12 @@
     "typescript": "^5.5.4"
   },
   "dependencies": {
+    "@inrupt/jest-jsdom-polyfills": "^3.2.3",
     "@observablehq/runtime": "^5.9.9",
     "@types/jest": "^29.5.12",
     "5ef68b6d8020c0c7": "https://api.observablehq.com/d/5ef68b6d8020c0c7@106.tgz?v=3",
-    "jest-fetch-mock": "^3.0.3"
+    "jest-fetch-mock": "^3.0.3",
+    "jsdom": "^25.0.0"
   },
   "scripts": {
     "test": "npx jest"

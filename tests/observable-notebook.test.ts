@@ -10,7 +10,7 @@ it('observable-cell', async () => {
     expect(Number.isInteger(test)).toBe(true)
 });
 
-it('observable-d3-dependency-cell', async () => {
+it('observable-d3-dependency-cell', async () => {    
     const runtime = new Runtime();
     const main = runtime.module(notebook);  
     const test = await main.value("d3_test"); //notebook cell code: d3_test = d3.utcFormat("%Y")(new Date);
